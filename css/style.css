@@ -857,6 +857,7 @@ body {
   background: var(--c-light);
   color: var(--c-dark);
   padding: 10px 14px;
+  z-index: 10;
 }
 /*Thanks*/
 
